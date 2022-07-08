@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"timestamp": "2022-07-07T02:17:06.173Z",
+		"title": "Marte",
+		"description": "Planeta del sistema solar",
+		"code": "A1",
+		"price": 150000,
+		"thumbnail": "https://imagenes.elpais.com/resizer/axr7icFo2t2gIKADIfCFhkDpBFk=/1200x0/filters:focal(2430x1475:2440x1485)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/57ABS6WHMBC4FP2JACGJJ6OY24.jpeg",
+		"stock": 1
+	},
+	{
+		"id": 2,
+		"timestamp": "2022-07-07T02:17:40.195Z",
+		"title": "PC",
+		"description": "PC",
+		"code": "LC22",
+		"price": 200,
+		"thumbnail": "https://hardzone.es/app/uploads-hardzone.es/2019/12/Modding-PC-01.jpg",
+		"stock": 0
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"timestamp": "2022-07-07T02:24:58.792Z",
+		"productos": [
+			{
+				"id": 3,
+				"timestamp": "2022-07-07T02:24:09.410Z",
+				"title": "arbol",
+				"description": "arbol",
+				"code": "A33",
+				"price": 75,
+				"thumbnail": "https://st2.depositphotos.com/1526816/5687/v/600/depositphotos_56876431-stock-illustration-tree.jpg",
+				"stock": 4
+			}
+		]
+	}
+]
